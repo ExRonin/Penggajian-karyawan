@@ -1,0 +1,14 @@
+C:\Users\RPL\Documents\M. Prafit Alvido .P\Visual Studio\ulangan\ulangan\bin\Debug\ulangan.exe.config
+C:\Users\RPL\Documents\M. Prafit Alvido .P\Visual Studio\ulangan\ulangan\bin\Debug\ulangan.exe
+C:\Users\RPL\Documents\M. Prafit Alvido .P\Visual Studio\ulangan\ulangan\bin\Debug\ulangan.pdb
+C:\Users\RPL\Documents\M. Prafit Alvido .P\Visual Studio\ulangan\ulangan\bin\Debug\MySql.Data.dll
+C:\Users\RPL\Documents\M. Prafit Alvido .P\Visual Studio\ulangan\ulangan\obj\Debug\ulangan.csprojAssemblyReference.cache
+C:\Users\RPL\Documents\M. Prafit Alvido .P\Visual Studio\ulangan\ulangan\obj\Debug\ulangan.Menu.resources
+C:\Users\RPL\Documents\M. Prafit Alvido .P\Visual Studio\ulangan\ulangan\obj\Debug\ulangan.Login.resources
+C:\Users\RPL\Documents\M. Prafit Alvido .P\Visual Studio\ulangan\ulangan\obj\Debug\ulangan.Properties.Resources.resources
+C:\Users\RPL\Documents\M. Prafit Alvido .P\Visual Studio\ulangan\ulangan\obj\Debug\ulangan.csproj.GenerateResource.cache
+C:\Users\RPL\Documents\M. Prafit Alvido .P\Visual Studio\ulangan\ulangan\obj\Debug\ulangan.csproj.CoreCompileInputs.cache
+C:\Users\RPL\Documents\M. Prafit Alvido .P\Visual Studio\ulangan\ulangan\obj\Debug\ulangan.csproj.CopyComplete
+C:\Users\RPL\Documents\M. Prafit Alvido .P\Visual Studio\ulangan\ulangan\obj\Debug\ulangan.exe
+C:\Users\RPL\Documents\M. Prafit Alvido .P\Visual Studio\ulangan\ulangan\obj\Debug\ulangan.pdb
+C:\Users\RPL\Documents\M. Prafit Alvido .P\Visual Studio\ulangan\ulangan\obj\Debug\ulangan.karyawan.resources
